@@ -1,0 +1,36 @@
+branch table
+==ID
+==Branch Name
+==Address
+==Phone
+
+product (no change)
+
+---Stocks---
+id
+
+ygnquantity	<<<<
+mdyquantity	<<<<
+product_id (foreign)
+
+---order---
+id
+suppliername
+branch_id (foreign) <<<<
+orderdate
+	
+
+
+---sale----
+id
+customer_id (foreign)
+saledate
+branch_id (foreign) 	<<<<
+
+
+
+
+
+
+
+

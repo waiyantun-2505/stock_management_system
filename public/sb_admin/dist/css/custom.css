@@ -1,0 +1,88 @@
+
+.logo-border{
+	border: 10px;
+	border-style: solid;
+	border-color: #228B22;
+}
+
+.logo-title{
+	color: #228B22;
+	font-weight: bold;
+	
+}
+
+
+
+.img{
+	width: auto;
+	height: 15rem;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.logo-address-title{
+	display: block;
+	background-color: #228B22;
+	color: #f5f5f5;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin: 1px;
+}
+
+.logo-address{
+	display: block;
+	font-weight: normal;
+	color: #228B22;
+	font-weight: bold;
+}
+
+.row-address{
+	margin-right: 0;
+  	margin-left: 0;
+  	padding-right: 0;
+  	padding-left: 0;
+}
+
+.logo-email{
+	display: block;
+}
+
+/*customer information*/
+
+u {    
+    border-bottom: 1px dotted #000;
+    text-decoration: none;
+    width: 10rem;
+    
+}
+
+.cust-lable{
+	color: #228B22;
+	font-weight: bold;
+}
+
+/*table*/
+
+.tble{
+	border: 5px solid #228B22;
+}
+
+.blank-row{
+	height: 10px !important;
+	background-color: #FFFFFF;
+}
+
+.blank-div{
+	height: 60px;
+}
+
+fieldset{
+	border: 10px solid black;
+}
+
+legend{
+	padding: 0.2em 0.5em;
+	border: 1px solid green;
+	color: green;
+}
